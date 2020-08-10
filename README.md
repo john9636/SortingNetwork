@@ -6,7 +6,12 @@ Sometimes, it's necessary to implement a sorting module on FPGA. And those sorti
 Just as its name implies, bitonic sorting network is a sorting network which could sort two groups of sorted data. And the two groups of sorted data, or inputs, should have opposite ascending features. To be more specific, please check out the introduction on [wiki](https://en.wikipedia.org/wiki/Bitonic_sorter).
 
 Briefly, the structure is as the figure below. It's from [wiki](https://en.wikipedia.org/wiki/Bitonic_sorter) as well.
+
+
 ![Test Image 3](https://github.com/john9636/SortingNetwork/blob/master/SortingNetwork/bitonic_sorting.png)
+
+
+
 
 
 BTW, I'm not a native speaker. I'm glad to be informed if you find any grammar mistakes in my words, so that I could improve my English. Thanks a lot.
