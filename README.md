@@ -14,4 +14,3 @@ Briefly, the structure is as the figure below. It's from [wiki](https://en.wikip
 
 
 
-# BTW, I'm not a native speaker. I'm glad to be informed if you find any grammar mistakes in my words, so that I could improve my English. Thanks a lot.
